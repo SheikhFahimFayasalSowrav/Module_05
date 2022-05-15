@@ -36,4 +36,13 @@ elif year % 100 == 0:
 else:
     print(year, "is not a Leap Year")
 
+#Class test
+
+x = 4
+y = 2
+if not 1 + 1 == y or x == 4 and 7 == 8:
+  print("Yes")
+elif x > y:
+  print("No")
+
 
